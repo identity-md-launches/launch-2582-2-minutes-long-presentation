@@ -1,0 +1,49 @@
+{
+  "output": "artifacts/video-v2.mp4",
+  "media_type": "video/mp4",
+  "duration_seconds": 120.0,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "frame_count": 2880,
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "audio_mean_dbfs": -20.2,
+  "audio_peak_dbfs": -1.5,
+  "bytes": 5218952,
+  "sha256": "36e40c748af4dea21ccc2f520b81f21c2d5baff36908baab0135052d511695d4",
+  "faststart": true,
+  "mp4_atoms": [
+    {
+      "type": "ftyp",
+      "offset": 0,
+      "size": 32
+    },
+    {
+      "type": "moov",
+      "offset": 32,
+      "size": 84423
+    },
+    {
+      "type": "free",
+      "offset": 84455,
+      "size": 8
+    },
+    {
+      "type": "mdat",
+      "offset": 84463,
+      "size": 5134489
+    }
+  ],
+  "full_decode": "passed; all video and audio decoded without errors",
+  "limitations": [
+    "Fictional generated human presenters; not filmed people or a real news broadcast.",
+    "Speech-energy mouth animation is approximate, not phoneme-accurate lip synchronization.",
+    "The single original synthetic narrator is retained across both presenter shots.",
+    "Original project descriptions and music retained; no new live product verification.",
+    "Browser compatibility checked by codecs, pixel format, faststart and full decode; no interactive browser playback check."
+  ]
+}

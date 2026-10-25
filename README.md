@@ -1,5 +1,7 @@
 # NIGHTSHIFT — Ideas don't sleep
 
+**Latest version: [TV news remix — artifacts/video-v2.mp4](artifacts/video-v2.mp4).** See [NEWS-V2.md](NEWS-V2.md) for the new format, media specifications, production details and synthetic-presenter limitations. The remainder of this README describes the original v1 input.
+
 A two-minute project presentation for [NIGHTSHIFT](https://getnightshift.tech), built on [IMD](https://imd.fun).
 
 **Delivered video: [`artifacts/video.mp4`](artifacts/video.mp4)** (`video/mp4`). This is the declared output path. The video is intentionally untracked and is uploaded separately by the delivery system.
