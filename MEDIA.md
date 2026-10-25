@@ -1,11 +1,11 @@
 # Media
 
-> a 2 minutes long, presentation, for https://getnightshift.tech project on imd.fun.
+> make it so its like someone talks about it on the news , on tv, real person, pixelated people.
 
-Pinned to IPFS as `bafybeihdx3s6lsl4tik4gyw6l73o2iqb5iivttm56torv6bdw524cjhvyu` — https://imd-ipfs.xyz/ipfs/bafybeihdx3s6lsl4tik4gyw6l73o2iqb5iivttm56torv6bdw524cjhvyu/
+Pinned to IPFS as `bafybeihwe3tpes5fcxrs4o3a53c3ebn2xscgwnlthxli7uhxd3r4d6hd6m` — https://imd-ipfs.xyz/ipfs/bafybeihwe3tpes5fcxrs4o3a53c3ebn2xscgwnlthxli7uhxd3r4d6hd6m/
 
 | file | type | bytes | sha-256 |
 | --- | --- | --- | --- |
-| [artifacts/video.mp4](artifacts/video.mp4) | video/mp4 | 7,637,677 | `474bcb40e65d7eb7c04c92c3c219db3a95f3bd3891ee71d21a22ac86986c51dd` |
+| [artifacts/video-v2.mp4](artifacts/video-v2.mp4) | video/mp4 | 5,218,952 | `36e40c748af4dea21ccc2f520b81f21c2d5baff36908baab0135052d511695d4` |
 
 Each file is the exact bytes the network accepted; its SHA-256 is the hash it was accepted under.
