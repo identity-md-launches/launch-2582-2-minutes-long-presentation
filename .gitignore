@@ -1,0 +1,5 @@
+artifacts/
+.build/
+test/scratch/
+__pycache__/
+*.pyc
